@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: coretan aja, gak usah bagus2
 ---
 
